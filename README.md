@@ -1,8 +1,6 @@
 
 # Gujarat_Gov_Residential_Data_Scraper
 
-![Property Residential Data Scraper](path_to_your_image.png)
-
 This project is a scraper designed to collect residential project data from the Gujarat government's online portal. The scraper extracts details about various residential projects including project registration IDs, cost, promoter details, and much more. The scraped data is saved in CSV format for easy access and analysis.
 
 ## Requirements
